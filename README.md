@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arjun-97
-- 👀 I’m interested in C++,Java and Web Development
-- 🌱 I’m currently learning Svelte
+- 👀 I’m interested in Machine Learning and Deep Learning in Python
+- 🌱 I’m currently learning Computer Vision
 - 😄 Pronouns: He/him
 
 <!---
